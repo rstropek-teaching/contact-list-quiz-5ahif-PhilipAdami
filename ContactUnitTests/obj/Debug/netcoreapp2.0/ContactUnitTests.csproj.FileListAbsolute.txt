@@ -1,0 +1,16 @@
+C:\Users\fabia\Source\Repos\ContactList\ContactUnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\fabia\Source\Repos\ContactList\ContactUnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\fabia\Source\Repos\ContactList\ContactUnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\fabia\Source\Repos\ContactList\ContactUnitTests\bin\Debug\netcoreapp2.0\ContactUnitTests.deps.json
+C:\Users\fabia\Source\Repos\ContactList\ContactUnitTests\bin\Debug\netcoreapp2.0\ContactUnitTests.runtimeconfig.json
+C:\Users\fabia\Source\Repos\ContactList\ContactUnitTests\bin\Debug\netcoreapp2.0\ContactUnitTests.runtimeconfig.dev.json
+C:\Users\fabia\Source\Repos\ContactList\ContactUnitTests\bin\Debug\netcoreapp2.0\ContactUnitTests.dll
+C:\Users\fabia\Source\Repos\ContactList\ContactUnitTests\bin\Debug\netcoreapp2.0\ContactUnitTests.pdb
+C:\Users\fabia\Source\Repos\ContactList\ContactUnitTests\bin\Debug\netcoreapp2.0\ContactList.dll
+C:\Users\fabia\Source\Repos\ContactList\ContactUnitTests\bin\Debug\netcoreapp2.0\ContactList.pdb
+C:\Users\fabia\Source\Repos\ContactList\ContactUnitTests\obj\Debug\netcoreapp2.0\ContactUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\fabia\Source\Repos\ContactList\ContactUnitTests\obj\Debug\netcoreapp2.0\ContactUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Source\Repos\ContactList\ContactUnitTests\obj\Debug\netcoreapp2.0\ContactUnitTests.AssemblyInfoInputs.cache
+C:\Users\fabia\Source\Repos\ContactList\ContactUnitTests\obj\Debug\netcoreapp2.0\ContactUnitTests.AssemblyInfo.cs
+C:\Users\fabia\Source\Repos\ContactList\ContactUnitTests\obj\Debug\netcoreapp2.0\ContactUnitTests.dll
+C:\Users\fabia\Source\Repos\ContactList\ContactUnitTests\obj\Debug\netcoreapp2.0\ContactUnitTests.pdb

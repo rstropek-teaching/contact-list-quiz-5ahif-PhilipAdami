@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ContactList3",
+    "\\ContactList3\\Person",
+    "\\ContactList3\\Services"
   ],
+  "SelectedNode": "\\ContactList3\\Services\\IEmailSender.cs",
   "PreviewInSolutionExplorer": false
 }
